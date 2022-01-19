@@ -1,0 +1,16 @@
+D:\GitHub\OS\Determination\Determination\obj\Debug\net5.0\Determination.csproj.AssemblyReference.cache
+D:\GitHub\OS\Determination\Determination\obj\Debug\net5.0\Determination.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OS\Determination\Determination\obj\Debug\net5.0\Determination.AssemblyInfoInputs.cache
+D:\GitHub\OS\Determination\Determination\obj\Debug\net5.0\Determination.AssemblyInfo.cs
+D:\GitHub\OS\Determination\Determination\obj\Debug\net5.0\Determination.csproj.CoreCompileInputs.cache
+D:\GitHub\OS\Determination\Determination\bin\Debug\net5.0\Determination.exe
+D:\GitHub\OS\Determination\Determination\bin\Debug\net5.0\Determination.deps.json
+D:\GitHub\OS\Determination\Determination\bin\Debug\net5.0\Determination.runtimeconfig.json
+D:\GitHub\OS\Determination\Determination\bin\Debug\net5.0\Determination.runtimeconfig.dev.json
+D:\GitHub\OS\Determination\Determination\bin\Debug\net5.0\Determination.dll
+D:\GitHub\OS\Determination\Determination\bin\Debug\net5.0\ref\Determination.dll
+D:\GitHub\OS\Determination\Determination\bin\Debug\net5.0\Determination.pdb
+D:\GitHub\OS\Determination\Determination\obj\Debug\net5.0\Determination.dll
+D:\GitHub\OS\Determination\Determination\obj\Debug\net5.0\ref\Determination.dll
+D:\GitHub\OS\Determination\Determination\obj\Debug\net5.0\Determination.pdb
+D:\GitHub\OS\Determination\Determination\obj\Debug\net5.0\Determination.genruntimeconfig.cache

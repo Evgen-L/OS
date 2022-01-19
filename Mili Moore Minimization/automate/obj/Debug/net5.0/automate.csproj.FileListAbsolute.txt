@@ -1,0 +1,48 @@
+D:\GitHub\OS\automate\automate\bin\Debug\net5.0\automate.exe
+D:\GitHub\OS\automate\automate\bin\Debug\net5.0\automate.deps.json
+D:\GitHub\OS\automate\automate\bin\Debug\net5.0\automate.runtimeconfig.json
+D:\GitHub\OS\automate\automate\bin\Debug\net5.0\automate.runtimeconfig.dev.json
+D:\GitHub\OS\automate\automate\bin\Debug\net5.0\automate.dll
+D:\GitHub\OS\automate\automate\bin\Debug\net5.0\ref\automate.dll
+D:\GitHub\OS\automate\automate\bin\Debug\net5.0\automate.pdb
+D:\GitHub\OS\automate\automate\obj\Debug\net5.0\automate.csproj.AssemblyReference.cache
+D:\GitHub\OS\automate\automate\obj\Debug\net5.0\automate.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OS\automate\automate\obj\Debug\net5.0\automate.AssemblyInfoInputs.cache
+D:\GitHub\OS\automate\automate\obj\Debug\net5.0\automate.AssemblyInfo.cs
+D:\GitHub\OS\automate\automate\obj\Debug\net5.0\automate.csproj.CoreCompileInputs.cache
+D:\GitHub\OS\automate\automate\obj\Debug\net5.0\automate.dll
+D:\GitHub\OS\automate\automate\obj\Debug\net5.0\ref\automate.dll
+D:\GitHub\OS\automate\automate\obj\Debug\net5.0\automate.pdb
+D:\GitHub\OS\automate\automate\obj\Debug\net5.0\automate.genruntimeconfig.cache
+D:\GitHub\OS\Mili_Moore_Minimization\automate\bin\Debug\net5.0\automate.exe
+D:\GitHub\OS\Mili_Moore_Minimization\automate\bin\Debug\net5.0\automate.deps.json
+D:\GitHub\OS\Mili_Moore_Minimization\automate\bin\Debug\net5.0\automate.runtimeconfig.json
+D:\GitHub\OS\Mili_Moore_Minimization\automate\bin\Debug\net5.0\automate.runtimeconfig.dev.json
+D:\GitHub\OS\Mili_Moore_Minimization\automate\bin\Debug\net5.0\automate.dll
+D:\GitHub\OS\Mili_Moore_Minimization\automate\bin\Debug\net5.0\ref\automate.dll
+D:\GitHub\OS\Mili_Moore_Minimization\automate\bin\Debug\net5.0\automate.pdb
+D:\GitHub\OS\Mili_Moore_Minimization\automate\obj\Debug\net5.0\automate.csproj.AssemblyReference.cache
+D:\GitHub\OS\Mili_Moore_Minimization\automate\obj\Debug\net5.0\automate.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OS\Mili_Moore_Minimization\automate\obj\Debug\net5.0\automate.AssemblyInfoInputs.cache
+D:\GitHub\OS\Mili_Moore_Minimization\automate\obj\Debug\net5.0\automate.AssemblyInfo.cs
+D:\GitHub\OS\Mili_Moore_Minimization\automate\obj\Debug\net5.0\automate.csproj.CoreCompileInputs.cache
+D:\GitHub\OS\Mili_Moore_Minimization\automate\obj\Debug\net5.0\automate.dll
+D:\GitHub\OS\Mili_Moore_Minimization\automate\obj\Debug\net5.0\ref\automate.dll
+D:\GitHub\OS\Mili_Moore_Minimization\automate\obj\Debug\net5.0\automate.pdb
+D:\GitHub\OS\Mili_Moore_Minimization\automate\obj\Debug\net5.0\automate.genruntimeconfig.cache
+D:\GitHub\OS\Mili Moore Minimization\automate\bin\Debug\net5.0\automate.exe
+D:\GitHub\OS\Mili Moore Minimization\automate\bin\Debug\net5.0\automate.deps.json
+D:\GitHub\OS\Mili Moore Minimization\automate\bin\Debug\net5.0\automate.runtimeconfig.json
+D:\GitHub\OS\Mili Moore Minimization\automate\bin\Debug\net5.0\automate.runtimeconfig.dev.json
+D:\GitHub\OS\Mili Moore Minimization\automate\bin\Debug\net5.0\automate.dll
+D:\GitHub\OS\Mili Moore Minimization\automate\bin\Debug\net5.0\ref\automate.dll
+D:\GitHub\OS\Mili Moore Minimization\automate\bin\Debug\net5.0\automate.pdb
+D:\GitHub\OS\Mili Moore Minimization\automate\obj\Debug\net5.0\automate.csproj.AssemblyReference.cache
+D:\GitHub\OS\Mili Moore Minimization\automate\obj\Debug\net5.0\automate.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OS\Mili Moore Minimization\automate\obj\Debug\net5.0\automate.AssemblyInfoInputs.cache
+D:\GitHub\OS\Mili Moore Minimization\automate\obj\Debug\net5.0\automate.AssemblyInfo.cs
+D:\GitHub\OS\Mili Moore Minimization\automate\obj\Debug\net5.0\automate.csproj.CoreCompileInputs.cache
+D:\GitHub\OS\Mili Moore Minimization\automate\obj\Debug\net5.0\automate.dll
+D:\GitHub\OS\Mili Moore Minimization\automate\obj\Debug\net5.0\ref\automate.dll
+D:\GitHub\OS\Mili Moore Minimization\automate\obj\Debug\net5.0\automate.pdb
+D:\GitHub\OS\Mili Moore Minimization\automate\obj\Debug\net5.0\automate.genruntimeconfig.cache

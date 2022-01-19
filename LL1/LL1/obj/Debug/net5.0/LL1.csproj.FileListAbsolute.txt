@@ -1,0 +1,16 @@
+D:\GitHub\OS\LL1\LL1\bin\Debug\net5.0\LL1.exe
+D:\GitHub\OS\LL1\LL1\bin\Debug\net5.0\LL1.deps.json
+D:\GitHub\OS\LL1\LL1\bin\Debug\net5.0\LL1.runtimeconfig.json
+D:\GitHub\OS\LL1\LL1\bin\Debug\net5.0\LL1.runtimeconfig.dev.json
+D:\GitHub\OS\LL1\LL1\bin\Debug\net5.0\LL1.dll
+D:\GitHub\OS\LL1\LL1\bin\Debug\net5.0\ref\LL1.dll
+D:\GitHub\OS\LL1\LL1\bin\Debug\net5.0\LL1.pdb
+D:\GitHub\OS\LL1\LL1\obj\Debug\net5.0\LL1.csproj.AssemblyReference.cache
+D:\GitHub\OS\LL1\LL1\obj\Debug\net5.0\LL1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OS\LL1\LL1\obj\Debug\net5.0\LL1.AssemblyInfoInputs.cache
+D:\GitHub\OS\LL1\LL1\obj\Debug\net5.0\LL1.AssemblyInfo.cs
+D:\GitHub\OS\LL1\LL1\obj\Debug\net5.0\LL1.csproj.CoreCompileInputs.cache
+D:\GitHub\OS\LL1\LL1\obj\Debug\net5.0\LL1.dll
+D:\GitHub\OS\LL1\LL1\obj\Debug\net5.0\ref\LL1.dll
+D:\GitHub\OS\LL1\LL1\obj\Debug\net5.0\LL1.pdb
+D:\GitHub\OS\LL1\LL1\obj\Debug\net5.0\LL1.genruntimeconfig.cache
