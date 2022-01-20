@@ -8,8 +8,7 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Evgeniy\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\eliak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -17,15 +16,11 @@
       "projectUniqueName": "D:\\GitHub\\OS\\Analyzer\\Analyzer\\Analyzer\\Analyzer.csproj",
       "projectName": "Analyzer",
       "projectPath": "D:\\GitHub\\OS\\Analyzer\\Analyzer\\Analyzer\\Analyzer.csproj",
-      "packagesPath": "C:\\Users\\Evgeniy\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\eliak\\.nuget\\packages\\",
       "outputPath": "D:\\GitHub\\OS\\Analyzer\\Analyzer\\Analyzer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Evgeniy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\eliak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
