@@ -1,0 +1,7 @@
+A : xD | aF | xC | EI
+D : EG
+F : bC
+I : aI | EC
+G : yG | EC
+C : xB | EJ
+J : yJ | EB

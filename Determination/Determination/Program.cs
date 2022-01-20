@@ -4,7 +4,7 @@ namespace Determination
 {
     class Program
     {
-        private const string AUTOMATON_PATH = @"Input\L3.txt";
+        private const string AUTOMATON_PATH = @"Input\R2.txt";
         static void Main(string[] args)
         {
             StatesReader reader = new StatesReader();
