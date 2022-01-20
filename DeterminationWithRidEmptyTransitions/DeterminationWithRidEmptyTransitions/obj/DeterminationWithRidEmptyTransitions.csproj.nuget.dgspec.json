@@ -10,11 +10,15 @@
         "projectUniqueName": "D:\\GitHub\\OS\\DeterminationWithRidEmptyTransitions\\DeterminationWithRidEmptyTransitions\\DeterminationWithRidEmptyTransitions.csproj",
         "projectName": "DeterminationWithRidEmptyTransitions",
         "projectPath": "D:\\GitHub\\OS\\DeterminationWithRidEmptyTransitions\\DeterminationWithRidEmptyTransitions\\DeterminationWithRidEmptyTransitions.csproj",
-        "packagesPath": "C:\\Users\\eliak\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Evgeniy\\.nuget\\packages\\",
         "outputPath": "D:\\GitHub\\OS\\DeterminationWithRidEmptyTransitions\\DeterminationWithRidEmptyTransitions\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\eliak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Evgeniy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
