@@ -10,6 +10,7 @@ namespace Determination
 
     public static class RipEmptyTransitionsDeterminator
     {
+        private const string EMPTY_TRANSITION_SYMBOL = "E"; 
         //public
         public static Automaton Determine(States equivalent)
         {
@@ -38,7 +39,7 @@ namespace Determination
             {
                 if (equivalent.ContainsKey(ch.ToString()))
                     foreach (var connect in equivalent[ch.ToString()].Connectiongs
-                        .Where(con => con.Key != "E"))
+                        .Where(con => con.Key != EMPTY_TRANSITION_SYMBOL))
                         result.Value.AddConnectiong(connect.Key, connect.Value);
             });
             return result;
@@ -52,7 +53,7 @@ namespace Determination
                 if (equivalent.ContainsKey(ch.ToString()))
                 {
                     foreach (var connect in equivalent[ch.ToString()].Connectiongs
-                        .Where(con => con.Key == "E"))
+                        .Where(con => con.Key == EMPTY_TRANSITION_SYMBOL))
                         result += new string(connect.Value.ToArray()) + GetStatesByEmptyTransitions(connect.Value.SetToString(), ref equivalent);
                 }
             }
