@@ -42,6 +42,7 @@ namespace Determination
                         .Where(con => con.Key != EMPTY_TRANSITION_SYMBOL))
                         result.Value.AddConnectiong(connect.Key, connect.Value);
             });
+            
             return result;
         }
 
@@ -49,14 +50,11 @@ namespace Determination
         {
             string result = "";
             foreach (char ch in combinedKey.ToCharArray().ToList())
-            {
                 if (equivalent.ContainsKey(ch.ToString()))
-                {
                     foreach (var connect in equivalent[ch.ToString()].Connectiongs
                         .Where(con => con.Key == EMPTY_TRANSITION_SYMBOL))
                         result += connect.Value.ToText() + GetStatesByEmptyTransitions(connect.Value.ToText(), ref equivalent);
-                }
-            }
+            
             return result;
         }
         private static void PushNewStates(StateConnectiongs connects, ref Stack<string> to, States resultStates)
