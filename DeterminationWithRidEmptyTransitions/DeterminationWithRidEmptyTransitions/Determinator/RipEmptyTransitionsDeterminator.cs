@@ -54,7 +54,7 @@ namespace Determination
                 {
                     foreach (var connect in equivalent[ch.ToString()].Connectiongs
                         .Where(con => con.Key == EMPTY_TRANSITION_SYMBOL))
-                        result += new string(connect.Value.ToArray()) + GetStatesByEmptyTransitions(connect.Value.SetToString(), ref equivalent);
+                        result += connect.Value.SetToString() + GetStatesByEmptyTransitions(connect.Value.SetToString(), ref equivalent);
                 }
             }
             return result;
