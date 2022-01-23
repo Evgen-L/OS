@@ -1,0 +1,16 @@
+D:\GitHub\OS\Lexer\Lexer\bin\Debug\net5.0\Lexer.exe
+D:\GitHub\OS\Lexer\Lexer\bin\Debug\net5.0\Lexer.deps.json
+D:\GitHub\OS\Lexer\Lexer\bin\Debug\net5.0\Lexer.runtimeconfig.json
+D:\GitHub\OS\Lexer\Lexer\bin\Debug\net5.0\Lexer.runtimeconfig.dev.json
+D:\GitHub\OS\Lexer\Lexer\bin\Debug\net5.0\Lexer.dll
+D:\GitHub\OS\Lexer\Lexer\bin\Debug\net5.0\ref\Lexer.dll
+D:\GitHub\OS\Lexer\Lexer\bin\Debug\net5.0\Lexer.pdb
+D:\GitHub\OS\Lexer\Lexer\obj\Debug\net5.0\Lexer.csproj.AssemblyReference.cache
+D:\GitHub\OS\Lexer\Lexer\obj\Debug\net5.0\Lexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OS\Lexer\Lexer\obj\Debug\net5.0\Lexer.AssemblyInfoInputs.cache
+D:\GitHub\OS\Lexer\Lexer\obj\Debug\net5.0\Lexer.AssemblyInfo.cs
+D:\GitHub\OS\Lexer\Lexer\obj\Debug\net5.0\Lexer.csproj.CoreCompileInputs.cache
+D:\GitHub\OS\Lexer\Lexer\obj\Debug\net5.0\Lexer.dll
+D:\GitHub\OS\Lexer\Lexer\obj\Debug\net5.0\ref\Lexer.dll
+D:\GitHub\OS\Lexer\Lexer\obj\Debug\net5.0\Lexer.pdb
+D:\GitHub\OS\Lexer\Lexer\obj\Debug\net5.0\Lexer.genruntimeconfig.cache

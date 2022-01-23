@@ -35,12 +35,12 @@ namespace Determination
         {
             string result = ToStringFirstConnect();
             foreach (var connect in Connectiongs.Skip(1)) 
-                result += $" | {connect.Key}{connect.Value.SetToString()}";
+                result += $" | {connect.Key}{connect.Value.ToText()}";
             return result;
         }
         
         //private
         private string ToStringFirstConnect() => 
-            $"{Connectiongs.FirstOrDefault().Key}{(Connectiongs.FirstOrDefault().Value == null ? "" : Connectiongs.FirstOrDefault().Value.SetToString())}";
+            $"{Connectiongs.FirstOrDefault().Key}{(Connectiongs.FirstOrDefault().Value == null ? "" : Connectiongs.FirstOrDefault().Value.ToText())}";
     }
 }
